@@ -15,9 +15,3 @@ A simple and intuitive To-Do List application built with Python and Tkinter. Thi
 
 - Python 3.x
 - Tkinter (comes pre-installed with Python)
-
-## Usage
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
